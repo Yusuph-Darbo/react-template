@@ -1,6 +1,6 @@
 # React Full‑Stack Template
 
-A starter template for building full‑stack React applications.  
+A starter template for building full‑stack React applications.
 
 ---
 
@@ -58,5 +58,3 @@ If you want frontend and backend running in one command:
 ```bash
 pnpm dev
 ```
-
----
